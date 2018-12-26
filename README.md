@@ -40,6 +40,9 @@ Our implementation is based on Python 3.5.2, Tensorflow 1.9.0, Keras 2.2, Numpy 
 # install Python dependencies
 pip install -r requirements.txt
 
+# train a model
+python train_model.py -d mnist
+
 # calculate LSA, coverage, and ROC-AUC score
 python run.py -lsa
 

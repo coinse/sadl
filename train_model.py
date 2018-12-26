@@ -10,10 +10,8 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D
 from keras.regularizers import l2
 
-
 CLIP_MIN = -0.5
 CLIP_MAX = 0.5
-
 
 def train(args):
     if args.d == "mnist":

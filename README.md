@@ -15,7 +15,7 @@ If you find this paper helpful, consider cite the paper:
 
 ## Introduction
 
-This repository includes [all experimental results](goo.gl/Dq63fq), code for computing Surprise Adequacy (SA).
+This repository includes [all experimental results](https://goo.gl/Dq63fq), code for computing Surprise Adequacy (SA).
 
 - run.py - script processing SA with a benign dataset and adversarial examples (MNIST and CIFAR-10).
 - sa.py - tools that fetch activation traces, compute LSA and DSA, and coverage.

@@ -1,4 +1,5 @@
 # Guiding Deep Learning System Testing using Surprise Adequacy
+[![DOI](https://zenodo.org/badge/159278402.svg)](https://zenodo.org/badge/latestdoi/159278402)
 
 Code release of a paper ["Guiding Deep Learning System Testing using Surprise Adequacy"](https://arxiv.org/abs/1808.08444)
 

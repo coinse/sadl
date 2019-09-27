@@ -6,11 +6,13 @@ Code release of a paper ["Guiding Deep Learning System Testing using Surprise Ad
 If you find this paper helpful, consider cite the paper:
 
 ```
-@article{kim2018guiding,
-  title={Guiding Deep Learning System Testing using Surprise Adequacy},
+@inproceedings{kim2019guiding,
+  title={Guiding deep learning system testing using surprise adequacy},
   author={Kim, Jinhan and Feldt, Robert and Yoo, Shin},
-  journal={arXiv preprint arXiv:1808.08444},
-  year={2018}
+  booktitle={Proceedings of the 41st International Conference on Software Engineering},
+  pages={1039--1049},
+  year={2019},
+  organization={IEEE Press}
 }
 ```
 

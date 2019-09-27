@@ -6,13 +6,14 @@ Code release of a paper ["Guiding Deep Learning System Testing using Surprise Ad
 If you find this paper helpful, consider cite the paper:
 
 ```
-@inproceedings{kim2019guiding,
-  title={Guiding deep learning system testing using surprise adequacy},
-  author={Kim, Jinhan and Feldt, Robert and Yoo, Shin},
-  booktitle={Proceedings of the 41st International Conference on Software Engineering},
-  pages={1039--1049},
-  year={2019},
-  organization={IEEE Press}
+@inproceedings{Kim2019aa,
+	Author = {Jinhan Kim and Robert Feldt and Shin Yoo},
+	Booktitle = {Proceedings of the 41th International Conference on Software Engineering},	
+	Pages = {1039-1049},
+	Publisher = {IEEE Press},
+	Series = {ICSE 2019},
+	Title = {Guiding Deep Learning System Testing using Surprise Adequacy},
+	Year = {2019}}
 }
 ```
 
@@ -78,6 +79,7 @@ python run.py -dsa
 - Images were processed by clipping its pixels in between -0.5 and 0.5.
 - If you want to select specific layers, you can modify the layers array in `run.py`.
 - Coverage may vary depending on the upper bound.
+- For speed-up, use GPU-based tensorflow.
 - [All experimental results](https://coinse.github.io/sadl/)
   
 ## References

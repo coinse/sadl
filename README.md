@@ -1,3 +1,4 @@
+> [Update April, 2021] Checkout a recent [paper](https://arxiv.org/abs/2103.05939) with fast, efficient implementation of SA: https://github.com/testingautomated-usi/surprise-adequacy. Big thanks to the authors! :smiley:
 # Guiding Deep Learning System Testing using Surprise Adequacy
 [![DOI](https://zenodo.org/badge/159278402.svg)](https://zenodo.org/badge/latestdoi/159278402)
 
